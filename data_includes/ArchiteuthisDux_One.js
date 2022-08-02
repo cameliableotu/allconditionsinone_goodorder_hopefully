@@ -189,7 +189,7 @@ var items = [
     
     
 [["ATTRAGREEADJROMANIAN-matchBN",12], "EPDashedSentence", {s:"+"}, DS, {s:"Piureurile de lângă macrouri mereu",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEADJROMANIAN-mismatchBN",12], "EPDashedSentence", {s:"+"}, DS, {s:"Piureurile de lângă macrou mereu",as: [['s','au'],['k','are']]}]
+[["ATTRAGREEADJROMANIAN-mismatchBN",12], "EPDashedSentence", {s:"+"}, DS, {s:"Piureurile de lângă macrou mereu",as: [['s','au'],['k','are']]}],
  [["ATTRAGREEADJROMANIAN-matchDPInterv",12], "EPDashedSentence", {s:"+"}, DS, {s:"Piureurile de lângă macrourile picante mereu",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-mismatchDPInterv",12], "EPDashedSentence", {s:"+"}, DS, {s:"Piureurile de lângă macroul picant mereu",as: [['s','au'],['k','are']]}],
 [["ATTRAGREEADJROMANIAN-matchDPHeadInterv",12], "EPDashedSentence", {s:"+"}, DS, {s:"Piureurile moi de lângă macrourile picante mereu",as: [['s','au'],['k','are']]}], 
