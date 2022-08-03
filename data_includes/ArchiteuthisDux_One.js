@@ -1,4 +1,4 @@
-// Agreement attraction in Romanian (complex version-nouns with adjectives)
+// Agreement attraction in Romanian (complex version-all conditions in one)
 
 // Do show progress bar (fine! I give in)
 
