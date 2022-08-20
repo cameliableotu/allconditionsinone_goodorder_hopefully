@@ -173,7 +173,7 @@ var items = [
 [["ATTRAGREEADJROMANIAN-matchDPInterv",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tabloul de lângă animalul dungat uneori",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-mismatchDPInterv",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tabloul de lângă animalele dungate uneori",as: [['s','au'],['k','are']]}],
 [["ATTRAGREEADJROMANIAN-matchDPHeadInterv",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tabloul frumos de lângă animalul dungat uneori",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEADJROMANIAN-mismatchDPHeadInterv",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tabloul frumos de lângă animalele dungat uneori",as: [['s','au'],['k','are']]}],
+[["ATTRAGREEADJROMANIAN-mismatchDPHeadInterv",10], "EPDashedSentence", {s:"+"}, DS, {s:"Tabloul frumos de lângă animalele dungate uneori",as: [['s','au'],['k','are']]}],
     
 [["ATTRAGREEADJROMANIAN-matchBN",11], "EPDashedSentence", {s:"+"}, DS, {s:"Nisipul de lângă crustaceu adesea",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-mismatchBN",11], "EPDashedSentence", {s:"+"}, DS, {s:"Nisipul de lângă crustacee adesea",as: [['s','au'],['k','are']]}], 
@@ -196,7 +196,7 @@ var items = [
 [["ATTRAGREEADJROMANIAN-matchDPInterv",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii de lângă hangiii locali mereu",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-mismatchDPInterv",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii de lângă hangiul local mereu",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-matchDPHeadInterv",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii gustoşi de lângă hangiii locali mereu",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEADJROMANIAN-mismatchDPHeadInterv",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii  gustoşi de lângă hangiii locali mereu",as: [['s','au'],['k','are']]}], 
+[["ATTRAGREEADJROMANIAN-mismatchDPHeadInterv",13], "EPDashedSentence", {s:"+"}, DS, {s:"Cârnaţii  gustoşi de lângă hangiul local mereu",as: [['s','au'],['k','are']]}], 
 
  
 [["ATTRAGREEADJROMANIAN-matchBN",14], "EPDashedSentence", {s:"+"}, DS, {s:"Buştenii de lângă eroi mereu",as: [['s','au'],['k','are']]}], 
@@ -211,7 +211,7 @@ var items = [
 [["ATTRAGREEADJROMANIAN-matchDPInterv",15], "EPDashedSentence", {s:"+"}, DS, {s:"Nasturii de lângă croitorii graşi adesea",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-mismatchDPInterv",15], "EPDashedSentence", {s:"+"}, DS, {s:"Nasturii de lângă croitorul gras adesea",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-matchDPHeadInterv",15], "EPDashedSentence", {s:"+"}, DS, {s:"Nasturii negri de lângă croitorii graşi adesea",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEADJROMANIAN-mismatchDPHeadInterv",15], "EPDashedSentence", {s:"+"}, DS, {s:"Nasturii negri de lângă croitorii graşi adesea",as: [['s','au'],['k','are']]}], 
+[["ATTRAGREEADJROMANIAN-mismatchDPHeadInterv",15], "EPDashedSentence", {s:"+"}, DS, {s:"Nasturii negri de lângă croitorul gras adesea",as: [['s','au'],['k','are']]}], 
     
 [["ATTRAGREEADJROMANIAN-matchBN",16], "EPDashedSentence", {s:"+"}, DS, {s:"Sacii de lângă contabili adesea",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-mismatchBN",16], "EPDashedSentence", {s:"+"}, DS, {s:"Sacii de lângă contabil adesea",as: [['s','au'],['k','are']]}],
@@ -268,7 +268,7 @@ var items = [
    
 [["ATTRAGREEADJROMANIAN-matchBN",23], "EPDashedSentence", {s:"+"}, DS, {s:"Macrourile de lângă vertebrate adesea",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-mismatchBN",23], "EPDashedSentence", {s:"+"}, DS, {s:"Macrourile de lângă vertebrat adesea",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEADJROMANIAN-matchDPInterv",23], "EPDashedSentence", {s:"+"}, DS, {s:"Macrourile de lângă vertebratele acvatice  adesea",as: [['s','au'],['k','are']]}], 
+[["ATTRAGREEADJROMANIAN-matchDPInterv",23], "EPDashedSentence", {s:"+"}, DS, {s:"Macrourile de lângă vertebratele acvatice adesea",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-mismatchDPInterv",23], "EPDashedSentence", {s:"+"}, DS, {s:"Macrourile de lângă vertebratul acvatic adesea",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-matchDPHeadInterv",23], "EPDashedSentence", {s:"+"}, DS, {s:"Macrourile mari de lângă vertebratele acvatice adesea",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-mismatchDPHeadInterv",23], "EPDashedSentence", {s:"+"}, DS, {s:"Macrourile mari de lângă vertebratul acvatic adesea",as: [['s','au'],['k','are']]}], 
