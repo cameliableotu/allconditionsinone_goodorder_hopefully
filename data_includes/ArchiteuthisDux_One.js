@@ -276,10 +276,10 @@ var items = [
 
 [["ATTRAGREEADJROMANIAN-matchBN",24], "EPDashedSentence", {s:"+"}, DS, {s:"Animalele de lângă mamifere uneori",as: [['s','au'],['k','are']]}], 
 [["ATTRAGREEADJROMANIAN-mismatchBN",24], "EPDashedSentence", {s:"+"}, DS, {s:"Animalele de lângă mamifer uneori",as: [['s','au'],['k','are']]}],
-[["ATTRAGREEADJROMANIAN-matchDPInterv",16], "EPDashedSentence", {s:"+"}, DS, {s:"Animalele de lângă mamiferele marine uneori",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEADJROMANIAN-mismatchDPInterv",16], "EPDashedSentence", {s:"+"}, DS, {s:"Animalele de lângă mamiferul marin uneori",as: [['s','au'],['k','are']]}],
-[["ATTRAGREEADJROMANIAN-matchDPHeadInterv",16], "EPDashedSentence", {s:"+"}, DS, {s:"Animalele blănoase de lângă mamiferele marine uneori",as: [['s','au'],['k','are']]}], 
-[["ATTRAGREEADJROMANIAN-mismatchDPHeadInterv",16], "EPDashedSentence", {s:"+"}, DS, {s:"Animalele blănoase de lângă mamiferul marin uneori",as: [['s','au'],['k','are']]}],
+[["ATTRAGREEADJROMANIAN-matchDPInterv",24], "EPDashedSentence", {s:"+"}, DS, {s:"Animalele de lângă mamiferele marine uneori",as: [['s','au'],['k','are']]}], 
+[["ATTRAGREEADJROMANIAN-mismatchDPInterv",24], "EPDashedSentence", {s:"+"}, DS, {s:"Animalele de lângă mamiferul marin uneori",as: [['s','au'],['k','are']]}],
+[["ATTRAGREEADJROMANIAN-matchDPHeadInterv",24], "EPDashedSentence", {s:"+"}, DS, {s:"Animalele blănoase de lângă mamiferele marine uneori",as: [['s','au'],['k','are']]}], 
+[["ATTRAGREEADJROMANIAN-mismatchDPHeadInterv",24], "EPDashedSentence", {s:"+"}, DS, {s:"Animalele blănoase de lângă mamiferul marin uneori",as: [['s','au'],['k','are']]}],
 
 
 //// Fillers
